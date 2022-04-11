@@ -1,0 +1,59 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m16Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\Debug\exercise 3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>exercise 3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>exercise 3.map</FILE>
+  <FILE>exercise 3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Command><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>16</LINE></Command>
+  <BCDNumber><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>17</LINE></BCDNumber>
+  <RESET><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>29</LINE></RESET>
+  <TIM1_COMPA><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>118</LINE></TIM1_COMPA>
+  <USART_RXC><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>210</LINE></USART_RXC>
+  <USART_UDRE><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>194</LINE></USART_UDRE>
+  <main><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>30</LINE></main>
+  <InitialiseStack><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>31</LINE></InitialiseStack>
+  <ClearScreen><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>162</LINE></ClearScreen>
+  <InitialiseLED><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>69</LINE></InitialiseLED>
+  <InitialiseCounter><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>96</LINE></InitialiseCounter>
+  <InitialiseRT><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>103</LINE></InitialiseRT>
+  <InitialiseTimer><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>77</LINE></InitialiseTimer>
+  <InitialiseMemory><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>57</LINE></InitialiseMemory>
+  <loop><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>47</LINE></loop>
+  <Ok><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>280</LINE></Ok>
+  <p7segmentLed><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>279</LINE></p7segmentLed>
+  <initialise><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>153</LINE></initialise>
+  <loopCl><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>168</LINE></loopCl>
+  <MoveMemory><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>177</LINE></MoveMemory>
+  <AccessLoop><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>184</LINE></AccessLoop>
+  <puts><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>197</LINE></puts>
+  <putc><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>199</LINE></putc>
+  <DisableTransmit><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>270</LINE></DisableTransmit>
+  <puts_end><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>204</LINE></puts_end>
+  <gets><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>211</LINE></gets>
+  <Control><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>225</LINE></Control>
+  <gets_end><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>218</LINE></gets_end>
+  <higher><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>232</LINE></higher>
+  <EnableTrasmitCall><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>255</LINE></EnableTrasmitCall>
+  <SaveToMemory><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>242</LINE></SaveToMemory>
+  <ClearScreenCall><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>251</LINE></ClearScreenCall>
+  <EnableTransmit><FILE>C:\Users\jlamp\Documents\Atmel Studio\7.0\exercise 3\exercise 3\main.asm</FILE><LINE>263</LINE></EnableTransmit>
+ </LABELS>
+</ASSEMBLER_INFO>
